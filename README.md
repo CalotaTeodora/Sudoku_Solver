@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This is a simple Sudoku solver written in C++ that uses a backtracking algorithm to find the solution to a given Sudoku puzzle.
+This is a simple Sudoku solver written in Python that uses a backtracking algorithm to find the solution to a given Sudoku puzzle.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ This is a simple Sudoku solver written in C++ that uses a backtracking algorithm
 
 ## Usage
 
-The Sudoku puzzle is represented as a 9x9 grid where empty cells are denoted by 0. To solve a Sudoku puzzle, simply modify the `board` array in the `sudoku_solver.cpp` file with the puzzle you want to solve:
+The Sudoku puzzle is represented as a 9x9 grid where empty cells are denoted by 0. To solve a Sudoku puzzle, simply modify the `board` array in the `sudoku_solver.py` file with the puzzle you want to solve:
 
 ```py
 board = [
